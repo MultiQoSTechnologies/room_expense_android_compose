@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.ExpenseManagementSystem" parent="android:Theme.Material.Light.NoActionBar" />
+
+    <style name="CalenderViewCustom" parent="ThemeOverlay.AppCompat.Dialog">
+    <item name="colorAccent">#429690</item>
+    <item name="colorPrimary">#429690</item>
+    <item name="android:windowBackground">#FFFFFF</item>     <!--calendar background-->
+    <item name="android:colorControlActivated">#2F7E79</item> <!--selected day-->
+    <item name="android:textColorPrimary">#222222</item> <!--days of the month-->
+    <item name="android:textColorSecondary">#222222</item>    <!--days of the week-->
+    <item name="colorControlHighlight">@android:color/transparent</item>
+    </style>
+
+</resources>
