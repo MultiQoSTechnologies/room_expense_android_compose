@@ -76,3 +76,10 @@
  - Save bills to photos for offline access.
 
 Now you are ready to effectively manage and track shared expenses using the Room Expense!
+
+### Let Us know
+For more details, visit [MultiQoS.](https://multiqos.com/)
+
+Contact us for collaboration or support:
+
+Email: biz@multiqos.com
